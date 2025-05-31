@@ -15,9 +15,14 @@ const About = () => {
         I’m looking forward to internship opportunities where I can grow and contribute meaningfully to a team.
       </p>
       <p>
-        <a href="/assets/Bibek_Resume.pdf" target="_blank" rel="noopener noreferrer">
-          📄 Download My Resume
-        </a>
+        <a
+        href="/assets/Bibek_Resume.pdf"
+        download
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+        📄 Download My Resume
+      </a>
       </p>
     </div>
   );
