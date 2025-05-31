@@ -16,7 +16,7 @@ const About = () => {
       </p>
       <p>
         <a
-        href="/assets/Bibek_Resume.pdf"
+        href="/assets/BIbek_Resume.pdf"
         download
         target="_blank"
         rel="noopener noreferrer"
