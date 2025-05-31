@@ -16,13 +16,13 @@ const About = () => {
       </p>
       <p>
         <a
-        href="/assets/BIbek_Resume.pdf"
-        download
-        target="_blank"
-        rel="noopener noreferrer"
-        >
-        📄 Download My Resume
-      </a>
+  href="/assets/Bibek_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  📄 View My Resume
+</a>
+
       </p>
     </div>
   );

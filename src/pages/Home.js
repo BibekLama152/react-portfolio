@@ -18,7 +18,7 @@ const Home = () => {
       <p>Welcome to my portfolio website. I'm a Software Engineering Technology student passionate about Java development and web design.</p>
       <p>Explore my work, see what services I offer, and feel free to get in touch!</p>
 
-      <Link to="/about">
+    <Link to="/about">
   <button style={{ padding: '0.5rem 1rem', marginTop: '1rem', cursor: 'pointer' }}>
     Learn More About Me
   </button>
